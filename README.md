@@ -1,6 +1,6 @@
 # torcchMultinomialTest
 用来测试cbs样本均衡效果
-```shell
+```
 epoch0: label0 = 4, label1 = 1, label2 = 5
 
 epoch1: label0 = 9, label1 = 1, label2 = 10
